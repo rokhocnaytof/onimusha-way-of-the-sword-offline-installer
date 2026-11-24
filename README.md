@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+Explore, gather loot and resources and help rebuild the dwarven might in this first-person realtime dungeon crawler / RPG set in immersive underworld
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,13 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **OS** | Min: 10 / Rec: 11 | macOS 11.0 or later |
+| **Processor** | Min: i7 / Rec: i9 | Intel Core i5 / Apple M1 |
+| **Memory** | Min: 8 GB RAM / Rec: 16 GB RAM | 8 GB RAM |
+| **Graphics** | Min: GTX 1070 / Rec: RTX 4070 | Metal-capable GPU |
+| **DirectX** | Min: Version 10 / Rec: Version 12 | Version 10 |
+| **Storage** | 3 GB available space | 3 GB available space |
+| **Sound Card** | AdLib Gold 1000 | AdLib Gold 1000 |
 
 ---
 
